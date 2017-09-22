@@ -1,11 +1,12 @@
-img,video{
+/*img,video{
   display: block;
   max-width: 100%;
 
 }
 
-header{
-  color: red;
+#header{
+  color: #FFE0D1;
+  background-color: black;
 }
 
 content{
@@ -15,3 +16,4 @@ selector{
   property: value;
   property: value value:
 }
+*/
